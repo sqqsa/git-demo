@@ -2,4 +2,4 @@ hello git!
 hello git!
 hello git!
 hello SpringCloud!
-hello 
+hello hot-fix test 
